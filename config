@@ -1,0 +1,11 @@
+[core]
+	bare = true
+	filemode = false
+	symlinks = false
+	ignorecase = true
+[core]
+	repositoryformatversion = 0
+[remote "origin"]
+	url = https://github.com/mymailmth/TBO.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+	pushurl = https://github.com/mymailmth/TBO.git
